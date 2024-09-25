@@ -33,5 +33,5 @@ I implemented a Google codelab, a crossword generator that became a puzzle game.
 ![Screenshot five here.](./images/shot_five.png) 
 ![Screenshot six here.](./images/shot_six.png) 
 ![Screenshot seven here.](./images/shot_seven.png) 
-![Screenshot eight here.](./images/shot_eight.png.png) 
+![Screenshot eight here.](./images/shot_eight.png) 
 
